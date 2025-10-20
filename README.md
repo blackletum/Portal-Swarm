@@ -1,3 +1,8 @@
+# Notice
+
+Portal: Swarm is no longer supported. Consider using [Portal: Retract Part 2's code](https://github.com/WonderlandWar/portalretract_part2-src).
+
+## Info
 This repo is based off of: https://github.com/NicolasDe/AlienSwarm
 
 Portal-Swarm is a mixture of Portal's code and HL2's code ported to Alien Swarm.
